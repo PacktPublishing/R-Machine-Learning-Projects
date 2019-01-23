@@ -1,0 +1,2 @@
+For code testing this chapter, you will need the Inception_BN-0039.params file here. Kindly download it from 
+https://github.com/h2oai/h2o-tutorials/blob/master/gtc-2017-deep-water/models/Inception_BN-0039.params and place it in the Inception folder.

@@ -1,0 +1,6 @@
+The dataset used in this chapter is more than 25 MB therefore it cannot be shared on github due to size limitation. 
+
+Please download the dataset creditcard.Rdata from the URL
+ 
+https://essentials.togaware.com/data/
+
