@@ -37,15 +37,7 @@ With the following software and hardware list you can run all code files present
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | 2 to 10 | RStudio, R3.5 | Windows, Mac OS X, and Linux (Any) |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/Bookname_ColorImages.pdf).
 
@@ -61,29 +53,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Dr. Sunil Kumar Chinnamgari**
 Dr. Sunil Kumar Chinnamgari has a PhD in computer science (specializing in machine learning and natural language processing). He is an AI researcher with more than 14 years of industry experience. Currently, he works in the capacity of a lead data scientist with a US financial giant. He has published several research papers in Scopus and IEEE journals and is a frequent speaker at various meet-ups. He is an avid coder and has won multiple hackathons. In his spare time, Sunil likes to teach, travel, and spend time with family.
-
-****
-0
-
-****
-0
-
-****
-0
-
-****
-0
-
-## Other books by the authors
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
