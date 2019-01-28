@@ -7,7 +7,11 @@ This is the code repository for [R Machine Learning Projects](https://www.amazon
 **Implement supervised, unsupervised, and reinforcement learning techniques using R 3.5**
 
 ## What is this book about?
-0
+R is one of the most popular languages when it comes to performing computational statistics (statistical computing) easily and exploring the mathematical side of machine learning. With this book, you will leverage the R ecosystem to build efficient machine learning applications that carry out intelligent tasks within your organization.
+
+This book will help you test your knowledge and skills, guiding you on how to build easily through to complex machine learning projects. You will first learn how to build powerful machine learning models with ensembles to predict employee attrition. Next, you’ll implement a joke recommendation engine and learn how to perform sentiment analysis on Amazon reviews. You’ll also explore different clustering techniques to segment customers using wholesale data. In addition to this, the book will get you acquainted with credit card fraud detection using autoencoders, and reinforcement learning to make predictions and win on a casino slot machine.
+
+By the end of the book, you will be equipped to confidently perform complex tasks to build research and commercial projects for automated operations.
 
 This book covers the following exciting features:
 
