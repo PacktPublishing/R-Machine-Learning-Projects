@@ -1,6 +1,6 @@
 # R Machine Learning Projects
 
-<a href="https://www.amazon.in/Machine-Learning-Projects-unsupervised-reinforcement/dp/1789807948/ref=sr_1_1?ie=UTF8&qid=1548669750&sr=8-1&keywords=r+machine+learning+by+sunil&utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/r-machine-learning-projects"><img src="https://www.packtpub.com/sites/default/files/B12405_cover.png" alt="" height="256px" align="right"></a>
 
 This is the code repository for [R Machine Learning Projects](https://www.amazon.in/Machine-Learning-Projects-unsupervised-reinforcement/dp/1789807948/ref=sr_1_1?ie=UTF8&qid=1548669750&sr=8-1&keywords=r+machine+learning+by+sunil&utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
@@ -15,6 +15,13 @@ By the end of the book, you will be equipped to confidently perform complex task
 
 This book covers the following exciting features:
 
+* Explore deep neural networks and various frameworks that can be used in R
+* Develop a joke recommendation engine to recommend jokes that match users’ tastes
+* Create powerful ML models with ensembles to predict employee attrition
+* Build autoencoders for credit card fraud detection
+* Work with image recognition and convolutional neural networks 
+* Make predictions for casino slot machine using reinforcement learning
+* Implement NLP techniques for sentiment analysis and customer segmentation
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-789-80794-8) today!
 
@@ -50,9 +57,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Machine Learning Algorithms - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-algorithms-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789347999 ) [[Amazon]](https://www.amazon.com/dp/1-789-34799-8)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **Dr. Sunil Kumar Chinnamgari**
